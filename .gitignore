@@ -74,3 +74,6 @@ backup/
 lib/
 *.lps
 *.bak
+
+# MacOS thumbnails
+.DS_Store
